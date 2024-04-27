@@ -42,7 +42,7 @@ cta-item2-link: /portfolio/resume
 ;; -----------------------------------------------------
 
 -- toast.stack:
-title: Hello, I'm Ankit goswami and i am intrested in webdevloping.
+title: Hello, I'm Isha Agrawal and i am intrested in webdevloping.
 link: https://github.com/agking7724
 
 ;; -----------------------------------------------------
@@ -70,7 +70,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: Ankit goswami,
+secondTitle: Isha Agrawal,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend 
@@ -92,7 +92,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:goswamiag407@gmail.com
+link: mailto:ishaagrawal1226@gamil.com
 
 -- button.primary:
 title: Schedule a Meeting
@@ -117,7 +117,7 @@ link: https://x.com/AnkitGoswami03?t=NCCcjPVpfRcqkYuctGKaJA&s=08
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/agking7724
+link: https://github.com/ishaa4401
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
@@ -125,7 +125,7 @@ link: https://instagram.com/__ankit__goswami__03?igshid=MzMyNGUyNmU2YQ==
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESShttps://instagram.com/__ankit__goswami__03?igshid=MzMyNGUyNmU2YQ==
+link: mailto:YOUR_EMAIL_ADDRESShttps://instagram.com/__.ishaaaa__
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
